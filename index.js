@@ -5,7 +5,7 @@ let num1 = 2;
 let num2 = 31;
 const multiply = num1 * num2;
 
-let random = Math.ceiling(Math.random() * 7);
+const random = Math.floor(Math.random() * 5) + 1;
 
 let num3 = 10;
 let num4 = 6;
